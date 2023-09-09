@@ -9,7 +9,7 @@ body {
 .row1 {
   height: 90px;
   width: 100%;
-  background-color: aquamarine;
+  background-color:#64a8ff;
 }
 .row2 {
   display: flex;
@@ -18,22 +18,22 @@ body {
 .row2col1 {
   height: 80px;
   width: 25%;
-  background-color: blue;
+  background-color: #e87a44;
 }
 .row2col2 {
   height: 80px;
   width: 25%;
-  background-color: green;
+  background-color: #784100;
 }
 .row2col3 {
   height: 80px;
   width: 25%;
-  background-color: yellow;
+  background-color: #ff7498;
 }
 .row2col4 {
   height: 80px;
   width: 25%;
-  background-color: orange;
+  background-color: #5b5ab2;
 }
 .middle {
   position: relative;
@@ -41,12 +41,12 @@ body {
 .leftcol {
   height: 400px;
   width: 12.5%;
-  background-color: blueviolet;
+  background-color: #cd94e2;
 }
 .rightcol {
   height: 500px;
   width: 12.5%;
-  background-color: brown;
+  background-color: #41474a;
   position: absolute;
   top: 0;
   right: 0;
@@ -54,7 +54,7 @@ body {
 .centerbox {
   height: 120px;
   width: 120px;
-  background-color: aqua;
+  background-color: #806800;
   border: 3px solid white;
   position: absolute;
   top: 35%;
@@ -62,5 +62,5 @@ body {
 }
 .lastrow {
   height: 100px;
-  background-color: red;
+  background-color: #008541;
 }
